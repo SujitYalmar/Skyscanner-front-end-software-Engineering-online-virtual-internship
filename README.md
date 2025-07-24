@@ -23,6 +23,11 @@ This virtual internship provided a hands-on experience of working as a front-end
 - Front-end testing and debugging  
 - Working with open-source design systems  
 
----
+
+## 📝 certificate 
+<img width="528" height="382" alt="Screenshot 2025-07-24 143847" src="https://github.com/user-attachments/assets/4510e798-a5a9-4cbd-b8b4-cdc629bb4fdd" />
+
 
 > 🧠 This program provided real-world insight into Skyscanner's development practices and strengthened my React-based front-end development skills.
+
+
